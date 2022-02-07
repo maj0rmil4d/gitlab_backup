@@ -1,1 +1,1 @@
-# gitbackup2telegram
+GitlabBackup2FTP
