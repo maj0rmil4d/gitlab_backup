@@ -1,4 +1,6 @@
-GitlabBackup2FTP
+#Gitlab backup
+
+###by using the following procedure you can backup repositories of your GitLab instance and keep them on local server or send trough FTP,Telegram###
 
 
 #Install gitlab backup
