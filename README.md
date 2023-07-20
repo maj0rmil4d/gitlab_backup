@@ -17,4 +17,6 @@
 
 0 8 * * * bash /root/gitlab_BK/ftpbk.sh
 
+0 8 * * * bash /root/gitlab_BK/send2telegram.sh
+
 0 11 * * * find /root/gitlab_BK/backups/ -type f -mtime +1 -delete
